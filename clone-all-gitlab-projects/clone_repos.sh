@@ -4,7 +4,7 @@
 REPO_FILE="repos.txt"
 
 # Define the base directory where repositories will be cloned
-WORK_DIR="$HOME/work/"
+WORK_DIR="$HOME/work"
 
 # Create the base work directory if it does not exist
 mkdir -p "$WORK_DIR"
